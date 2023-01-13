@@ -1,6 +1,6 @@
 set UVM_HOME=C:/ModelSim/modeltech64_10.1c/verilog_src/uvm-1.1
 set UVM_DPI_DIR=%UVM_HOME%/lib/uvm_dpi
-set SRC=C:/verification/program/lab3_ral_model/myself/src
+set SRC=C:/github_official/sample_dut_with_uvm/lab3_ral_model_uvm/src
 set RUN_ALL=-do "run -all; quit"
 
 if "%~1" == "" (
