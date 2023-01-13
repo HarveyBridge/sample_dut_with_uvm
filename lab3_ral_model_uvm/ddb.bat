@@ -1,0 +1,1 @@
+vsim -gui work.top_tb
